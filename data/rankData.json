@@ -1,0 +1,7202 @@
+[
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 1,
+    "book-tittle": "Righteous Prey",
+    "author": "John Sandford",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 2,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 44,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 69,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 4,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 5,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 6,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 181,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 7,
+    "book-tittle": "Our Missing Hearts",
+    "author": "Celeste Ng",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 8,
+    "book-tittle": "Dreamland",
+    "author": "Nicholas Sparks",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 9,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 39,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 10,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 67,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 11,
+    "book-tittle": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 29,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 12,
+    "book-tittle": "Maybe Now",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 13,
+    "book-tittle": "Endless Summer",
+    "author": "Elin Hilderbrand",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 14,
+    "book-tittle": "Blowback",
+    "author": "James Patterson and Brendan DuBois",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 15,
+    "book-tittle": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "fiction",
+    "weeks-on-list": 50,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 1,
+    "book-tittle": "Long Shadows",
+    "author": "David Baldacci",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 2,
+    "book-tittle": "The Maze",
+    "author": "Nelson DeMille",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 3,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 45,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 4,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 70,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 5,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 6,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 182,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 7,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 40,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 8,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 9,
+    "book-tittle": "Dreamland",
+    "author": "Nicholas Sparks",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 10,
+    "book-tittle": "The High Notes",
+    "author": "Danielle Steel",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 11,
+    "book-tittle": "Distant Thunder",
+    "author": "Stuart Woods",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 12,
+    "book-tittle": "Dark Whisper",
+    "author": "Christine Feehan",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 13,
+    "book-tittle": "Righteous Prey",
+    "author": "John Sandford",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 14,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 68,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 15,
+    "book-tittle": "Our Missing Hearts",
+    "author": "Celeste Ng",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 2,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 71,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 46,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 5,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 6,
+    "book-tittle": "Long Shadows",
+    "author": "David Baldacci",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 7,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 41,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 8,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 9,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 183,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 10,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 11,
+    "book-tittle": "Dreamland",
+    "author": "Nicholas Sparks",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 12,
+    "book-tittle": "The Maze",
+    "author": "Nelson DeMille",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 13,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 69,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 14,
+    "book-tittle": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 30,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 15,
+    "book-tittle": "Righteous Prey",
+    "author": "John Sandford",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 2,
+    "book-tittle": "No Plan B",
+    "author": "Lee Child and Andrew Child",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 72,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 5,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 47,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 6,
+    "book-tittle": "Fire and Blood",
+    "author": "George R.R. Martin",
+    "genre": "fiction",
+    "weeks-on-list": 13,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 7,
+    "book-tittle": "Livid",
+    "author": "Patricia Cornwell",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 8,
+    "book-tittle": "The Passenger",
+    "author": "Cormac McCarthy",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 9,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 42,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 10,
+    "book-tittle": "Long Shadows",
+    "author": "David Baldacci",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 11,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 12,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 184,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 13,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 14,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 15,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 70,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 2,
+    "book-tittle": "Going Rogue",
+    "author": "Janet Evanovich",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 73,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 4,
+    "book-tittle": "Triple Cross",
+    "author": "James Patterson",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 5,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 6,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 48,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 7,
+    "book-tittle": "No Plan B",
+    "author": "Lee Child and Andrew Child",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 8,
+    "book-tittle": "Racing the Light",
+    "author": "Robert Crais",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 9,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 43,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 10,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 11,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 185,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 12,
+    "book-tittle": "Long Shadows",
+    "author": "David Baldacci",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 13,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 14,
+    "book-tittle": "Fire and Blood",
+    "author": "George R.R. Martin",
+    "genre": "fiction",
+    "weeks-on-list": 14,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 15,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 2,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 74,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 5,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 49,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 6,
+    "book-tittle": "No Plan B",
+    "author": "Lee Child and Andrew Child",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 7,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 44,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 8,
+    "book-tittle": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 31,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 9,
+    "book-tittle": "Going Rogue",
+    "author": "Janet Evanovich",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 10,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 10,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 11,
+    "book-tittle": "Triple Cross",
+    "author": "James Patterson",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 12,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 186,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 13,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 71,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 14,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 15,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 2,
+    "book-tittle": "The Lost Metal",
+    "author": "Brandon Sanderson",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 75,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 5,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 50,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 6,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 7,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 11,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 8,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 187,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 9,
+    "book-tittle": "No Plan B",
+    "author": "Lee Child and Andrew Child",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 10,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 11,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 45,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 12,
+    "book-tittle": "Going Rogue",
+    "author": "Janet Evanovich",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 13,
+    "book-tittle": "A Light in the Flame",
+    "author": "Jennifer L. Armentrout",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 14,
+    "book-tittle": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 32,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 15,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 72,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 2,
+    "book-tittle": "The Choice",
+    "author": "Nora Roberts",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 76,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 51,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 5,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 188,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 6,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 7,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 46,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 8,
+    "book-tittle": "The Whittiers",
+    "author": "Danielle Steel",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 9,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 12,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 10,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 11,
+    "book-tittle": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 33,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 12,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 73,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 13,
+    "book-tittle": "A Christmas Memory",
+    "author": "Richard Paul Evans",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 14,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 15,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 1,
+    "book-tittle": "A World of Curiosities",
+    "author": "Louise Penny",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 2,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 77,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 52,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 5,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 6,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 7,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 13,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 8,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 189,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 9,
+    "book-tittle": "Triple Cross",
+    "author": "James Patterson",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 10,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 47,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 11,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 12,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 74,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 13,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 14,
+    "book-tittle": "The Choice",
+    "author": "Nora Roberts",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 15,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 2,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 78,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 3,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 53,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 5,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 6,
+    "book-tittle": "Tom Clancy: Red Winter",
+    "author": "Marc Cameron",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 7,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 14,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 8,
+    "book-tittle": "A World of Curiosities",
+    "author": "Louise Penny",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 9,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 190,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 10,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 48,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 11,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 12,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 75,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 13,
+    "book-tittle": "Triple Cross",
+    "author": "James Patterson",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 14,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 15,
+    "book-tittle": "Stella Maris",
+    "author": "Cormac McCarthy",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 2,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 79,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 3,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 54,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 5,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 6,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 15,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 7,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 191,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 8,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 49,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 9,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 10,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 76,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 11,
+    "book-tittle": "Dreamland",
+    "author": "Nicholas Sparks",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 12,
+    "book-tittle": "A World of Curiosities",
+    "author": "Louise Penny",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 13,
+    "book-tittle": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 34,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 14,
+    "book-tittle": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 15,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 10,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 2,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 80,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 3,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 55,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 5,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 10,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 6,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 16,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 7,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 192,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 8,
+    "book-tittle": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 50,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 9,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 77,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 10,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 11,
+    "book-tittle": "Dreamland",
+    "author": "Nicholas Sparks",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 12,
+    "book-tittle": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 35,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 13,
+    "book-tittle": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "fiction",
+    "weeks-on-list": 51,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 14,
+    "book-tittle": "Triple Cross",
+    "author": "James Patterson",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 15,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 10,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 15,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 2,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 72,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 60,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 5,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 6,
+    "book-tittle": "The Wrong Bride",
+    "author": "Catharina Maura",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 7,
+    "book-tittle": "Fire and Blood",
+    "author": "George R.R. Martin",
+    "genre": "fiction",
+    "weeks-on-list": 18,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 8,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 9,
+    "book-tittle": "Long Shadows",
+    "author": "David Baldacci",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 10,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 11,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 42,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 12,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 186,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 13,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 15,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 14,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 15,
+    "book-tittle": "The Method",
+    "author": "James Patterson & Michael B. Silver",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 16,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 2,
+    "book-tittle": "Fire and Blood",
+    "author": "George R.R. Martin",
+    "genre": "fiction",
+    "weeks-on-list": 19,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 3,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 4,
+    "book-tittle": "No Plan B",
+    "author": "Lee Child and Andrew Child",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 5,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 73,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 6,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 61,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 7,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 8,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 9,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 10,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 11,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 43,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 12,
+    "book-tittle": "Long Shadows",
+    "author": "David Baldacci",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 13,
+    "book-tittle": "The Wrong Bride",
+    "author": "Catharina Maura",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 14,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 16,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 15,
+    "book-tittle": "The Passenger",
+    "author": "Cormac McCarthy",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 17,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 2,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 74,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 3,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 62,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 5,
+    "book-tittle": "Going Rogue",
+    "author": "Janet Evanovich",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 6,
+    "book-tittle": "No Plan B",
+    "author": "Lee Child and Andrew Child",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 7,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 10,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 8,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 9,
+    "book-tittle": "Icebreaker",
+    "author": "Hannah Grace",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 10,
+    "book-tittle": "The Hocus Pocus Spell Book",
+    "author": "Eric Geron",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 11,
+    "book-tittle": "Fire and Blood",
+    "author": "George R.R. Martin",
+    "genre": "fiction",
+    "weeks-on-list": 20,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 12,
+    "book-tittle": "Triple Cross",
+    "author": "James Patterson",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 13,
+    "book-tittle": "Corrupted Chaos",
+    "author": "Shain Rose",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 14,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 44,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 15,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 18,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 2,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 75,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 5,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 63,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 6,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 11,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 7,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 18,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 8,
+    "book-tittle": "No Plan B",
+    "author": "Lee Child and Andrew Child",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 9,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 45,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 10,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 11,
+    "book-tittle": "Princess and the Player",
+    "author": "Ilsa Madden-Mills",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 12,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 189,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 13,
+    "book-tittle": "Little Blue Truck's Halloween",
+    "author": "Alice Schertle",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 14,
+    "book-tittle": "Corrupted Chaos",
+    "author": "Shain Rose",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 15,
+    "book-tittle": "Stellarlune",
+    "author": "Shannon Messenger",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 19,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 2,
+    "book-tittle": "The Lost Metal",
+    "author": "Brandon Sanderson",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 76,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 5,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 6,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 12,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 7,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 190,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 8,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 19,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 9,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 64,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 10,
+    "book-tittle": "A Light in the Flame",
+    "author": "Jennifer L. Armentrout",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 11,
+    "book-tittle": "No Plan B",
+    "author": "Lee Child and Andrew Child",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 12,
+    "book-tittle": "Corrupted Chaos",
+    "author": "Shain Rose",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 13,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 14,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 46,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 15,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 20,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 2,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 77,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 3,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 13,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 5,
+    "book-tittle": "The Choice",
+    "author": "Nora Roberts",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 6,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 191,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 7,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 65,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 8,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 9,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 47,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 10,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 11,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 20,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 12,
+    "book-tittle": "Tempt",
+    "author": "Melanie Harlow",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 13,
+    "book-tittle": "Harry Potter and the Order of the Phoenix: the Illustrated Edition",
+    "author": "J. K. Rowling",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 14,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 15,
+    "book-tittle": "Untying the Knot",
+    "author": "Meghan Quinn",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 21,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 2,
+    "book-tittle": "A World of Curiosities",
+    "author": "Louise Penny",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 78,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 4,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 14,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 5,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 6,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 7,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 21,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 8,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 66,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 9,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 192,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 10,
+    "book-tittle": "Harry Potter and the Order of the Phoenix: the Illustrated Edition",
+    "author": "J. K. Rowling",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 11,
+    "book-tittle": "We Lie Here",
+    "author": "Rachel Howzell Hall",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 12,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 13,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 48,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 14,
+    "book-tittle": "The Crossing",
+    "author": "Matt Brolly",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 15,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 22,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 2,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 79,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 3,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 22,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 5,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 15,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 6,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 67,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 7,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 8,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 9,
+    "book-tittle": "A World of Curiosities",
+    "author": "Louise Penny",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 10,
+    "book-tittle": "Failure Mode",
+    "author": "Craig Alanson",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 11,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 193,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 12,
+    "book-tittle": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 13,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 49,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 14,
+    "book-tittle": "World of Eric Carle, Around the Farm",
+    "author": "Eric Carle",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 15,
+    "book-tittle": "Harry Potter and the Order of the Phoenix: the Illustrated Edition",
+    "author": "J. K. Rowling",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 23,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 2,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 80,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 3,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 23,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 10,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 5,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 68,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 6,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 16,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 7,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 8,
+    "book-tittle": "He Who Fights With Monsters 8",
+    "author": "Shirtaloon & Travis Deverell",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 9,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 50,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 10,
+    "book-tittle": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "fiction",
+    "weeks-on-list": 194,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 11,
+    "book-tittle": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "genre": "fiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 12,
+    "book-tittle": "Diper Överlöde (diary of a Wimpy Kid Book 17)",
+    "author": "Jeff Kinney",
+    "genre": "fiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 13,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 76,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 14,
+    "book-tittle": "Zodiac Academy 8",
+    "author": "Caroline Peckham & Susanne Valenti",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 15,
+    "book-tittle": "A World of Curiosities",
+    "author": "Louise Penny",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 1,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 24,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 2,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 24,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 3,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 11,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 4,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 11,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 5,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 81,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 6,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 17,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 7,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 69,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 8,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 9,
+    "book-tittle": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "genre": "fiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 10,
+    "book-tittle": "Tangled in Tinsel",
+    "author": "Trilina Pucci",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 11,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 77,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 12,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 51,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 13,
+    "book-tittle": "Dreamland",
+    "author": "Nicholas Sparks",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 14,
+    "book-tittle": "Tis the Season for Revenge",
+    "author": "Morgan Elizabeth",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 15,
+    "book-tittle": "Resting Scrooge Face",
+    "author": "Meghan Quinn",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 1,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 25,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 2,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 25,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 82,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 70,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 5,
+    "book-tittle": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "genre": "fiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 6,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 10,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 7,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 78,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 8,
+    "book-tittle": "Desert Star",
+    "author": "Michael Connelly",
+    "genre": "fiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 9,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 12,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 10,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 18,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 11,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 52,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 12,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 12,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 13,
+    "book-tittle": "The Perfect Marriage",
+    "author": "Jeneva Rose",
+    "genre": "fiction",
+    "weeks-on-list": 13,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 14,
+    "book-tittle": "Things We Never Got Over",
+    "author": "Lucy Score",
+    "genre": "fiction",
+    "weeks-on-list": 40,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 15,
+    "book-tittle": "Girl, Forgotten",
+    "author": "Karin Slaughter",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 1,
+    "book-tittle": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genre": "fiction",
+    "weeks-on-list": 26,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 2,
+    "book-tittle": "It Starts With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 26,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 3,
+    "book-tittle": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 83,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 4,
+    "book-tittle": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 71,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 5,
+    "book-tittle": "Demon Copperhead",
+    "author": "Barbara Kingsolver",
+    "genre": "fiction",
+    "weeks-on-list": 11,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 6,
+    "book-tittle": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "genre": "fiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 7,
+    "book-tittle": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "fiction",
+    "weeks-on-list": 53,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 8,
+    "book-tittle": "The Boys from Biloxi",
+    "author": "John Grisham",
+    "genre": "fiction",
+    "weeks-on-list": 13,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 9,
+    "book-tittle": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "fiction",
+    "weeks-on-list": 79,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 10,
+    "book-tittle": "The Perfect Marriage",
+    "author": "Jeneva Rose",
+    "genre": "fiction",
+    "weeks-on-list": 14,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 11,
+    "book-tittle": "The House in the Pines",
+    "author": "Ana Reyes",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 12,
+    "book-tittle": "Fairy Tale",
+    "author": "Stephen King",
+    "genre": "fiction",
+    "weeks-on-list": 19,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 13,
+    "book-tittle": "Horse",
+    "author": "Geraldine Brooks",
+    "genre": "fiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 14,
+    "book-tittle": "Things We Never Got Over",
+    "author": "Lucy Score",
+    "genre": "fiction",
+    "weeks-on-list": 41,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 15,
+    "book-tittle": "Mad Honey",
+    "author": "Jodi Picoult and Jennifer Finney Boylan",
+    "genre": "fiction",
+    "weeks-on-list": 13,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 1,
+    "book-tittle": "Confidence Man",
+    "author": "Maggie Haberman",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 2,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 3,
+    "book-tittle": "Live Wire",
+    "author": "Kelly Ripa",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 4,
+    "book-tittle": "Killing the Legends",
+    "author": "Bill O'reilly, Martin Dugard",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 5,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 111,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 6,
+    "book-tittle": "Adrift",
+    "author": "Scott Galloway",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 7,
+    "book-tittle": "Starry Messenger",
+    "author": "Neil Degrasse Tyson",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 8,
+    "book-tittle": "The Myth of Normal",
+    "author": "Gabor Maté, Daniel Maté",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 9,
+    "book-tittle": "The Divider",
+    "author": "Peter Baker, Susan Glasser",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 10,
+    "book-tittle": "If You Want Something Done",
+    "author": "Nikki R. Haley",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 11,
+    "book-tittle": "When Mckinsey Comes to Town",
+    "author": "Walt Bogdanich, Michael Forsythe",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 12,
+    "book-tittle": "Dinners With Ruth",
+    "author": "Nina Totenberg",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 13,
+    "book-tittle": "Grace",
+    "author": "Cody Keenan",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 14,
+    "book-tittle": "What If? 2",
+    "author": "Randall Munroe",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 15,
+    "book-tittle": "The Mosquito Bowl",
+    "author": "Buzz Bissinger",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 1,
+    "book-tittle": "Confidence Man",
+    "author": "Maggie Haberman",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 2,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 10,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 3,
+    "book-tittle": "Live Wire",
+    "author": "Kelly Ripa",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 4,
+    "book-tittle": "Killing the Legends",
+    "author": "Bill O'reilly, Martin Dugard",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 5,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 112,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 6,
+    "book-tittle": "Down and Out in Paradise",
+    "author": "Charles Leerhsen",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 7,
+    "book-tittle": "Hold the Line",
+    "author": "Michael Fanone, John Shiffman",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 8,
+    "book-tittle": "Revenge",
+    "author": "Michael Cohen",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 9,
+    "book-tittle": "Visual Thinking",
+    "author": "Temple Grandin, Betsy Lerner",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 10,
+    "book-tittle": "All About Love",
+    "author": "Bell Hooks",
+    "genre": "nonfiction",
+    "weeks-on-list": 29,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 11,
+    "book-tittle": "The Big Bang Theory",
+    "author": "Jessica Radloff",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 12,
+    "book-tittle": "Braiding Sweetgrass",
+    "author": "Robin Wall Kimmerer",
+    "genre": "nonfiction",
+    "weeks-on-list": 54,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 13,
+    "book-tittle": "Adrift",
+    "author": "Scott Galloway",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 14,
+    "book-tittle": "The Myth of Normal",
+    "author": "Gabor Maté, Daniel Maté",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 15,
+    "book-tittle": "Starry Messenger",
+    "author": "Neil Degrasse Tyson",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 1,
+    "book-tittle": "Beyond the Wand",
+    "author": "Tom Felton",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 2,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 3,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 11,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 4,
+    "book-tittle": "The Extraordinary Life of an Ordinary Man",
+    "author": "Paul Newman",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 5,
+    "book-tittle": "Madly, Deeply",
+    "author": "Alan Rickman",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 6,
+    "book-tittle": "Confidence Man",
+    "author": "Maggie Haberman",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 7,
+    "book-tittle": "Killing the Legends",
+    "author": "Bill O'reilly, Martin Dugard",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 8,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 113,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 9,
+    "book-tittle": "Bibi",
+    "author": "Benjamin Netanyahu",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 10,
+    "book-tittle": "Waxing On",
+    "author": "Ralph Macchio",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 11,
+    "book-tittle": "Live Wire",
+    "author": "Kelly Ripa",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 12,
+    "book-tittle": "Ejaculate Responsibly",
+    "author": "Gabrielle Blair",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 13,
+    "book-tittle": "Braiding Sweetgrass",
+    "author": "Robin Wall Kimmerer",
+    "genre": "nonfiction",
+    "weeks-on-list": 55,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 14,
+    "book-tittle": "Starry Messenger",
+    "author": "Neil Degrasse Tyson",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 15,
+    "book-tittle": "The Persuaders",
+    "author": "Anand Giridharadas",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 1,
+    "book-tittle": "Radio's Greatest of All Time",
+    "author": "Rush Limbaugh, Kathryn Adams Limbaugh, David Limbaugh",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 2,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 12,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 3,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 4,
+    "book-tittle": "Waypoints",
+    "author": "Sam Heughan",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 5,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 114,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 6,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 7,
+    "book-tittle": "My Travels With Mrs. Kennedy",
+    "author": "Clint Hill, Lisa Mccubbin Hill",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 8,
+    "book-tittle": "Justice Corrupted",
+    "author": "Ted Cruz",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 9,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 10,
+    "book-tittle": "Confidence Man",
+    "author": "Maggie Haberman",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 11,
+    "book-tittle": "The Last Folk Hero",
+    "author": "Jeff Pearlman",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 12,
+    "book-tittle": "Killing the Legends",
+    "author": "Bill O'reilly, Martin Dugard",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 13,
+    "book-tittle": "The Extraordinary Life of an Ordinary Man",
+    "author": "Paul Newman",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 14,
+    "book-tittle": "Beyond the Wand",
+    "author": "Tom Felton",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 15,
+    "book-tittle": "Live Wire",
+    "author": "Kelly Ripa",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 1,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 2,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 3,
+    "book-tittle": "The Philosophy of Modern Song",
+    "author": "Bob Dylan",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 4,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 13,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 5,
+    "book-tittle": "Cinema Speculation",
+    "author": "Quentin Tarantino",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 6,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 7,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 115,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 8,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 9,
+    "book-tittle": "Radio's Greatest of All Time",
+    "author": "Rush Limbaugh, Kathryn Adams Limbaugh, David Limbaugh",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 10,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 11,
+    "book-tittle": "Justice Corrupted",
+    "author": "Ted Cruz",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 12,
+    "book-tittle": "The Extraordinary Life of an Ordinary Man",
+    "author": "Paul Newman",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 13,
+    "book-tittle": "Confidence Man",
+    "author": "Maggie Haberman",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 14,
+    "book-tittle": "From Scratch",
+    "author": "Tembi Locke",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 15,
+    "book-tittle": "Killing the Legends",
+    "author": "Bill O'reilly, Martin Dugard",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 1,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 2,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 14,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 3,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 4,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 116,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 5,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 6,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 7,
+    "book-tittle": "The Philosophy of Modern Song",
+    "author": "Bob Dylan",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 8,
+    "book-tittle": "Cinema Speculation",
+    "author": "Quentin Tarantino",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 9,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 10,
+    "book-tittle": "Novelist as a Vocation",
+    "author": "Haruki Murakami",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 11,
+    "book-tittle": "Confidence Man",
+    "author": "Maggie Haberman",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 12,
+    "book-tittle": "The Extraordinary Life of an Ordinary Man",
+    "author": "Paul Newman",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 13,
+    "book-tittle": "Braiding Sweetgrass",
+    "author": "Robin Wall Kimmerer",
+    "genre": "nonfiction",
+    "weeks-on-list": 56,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 14,
+    "book-tittle": "Dinners With Ruth",
+    "author": "Nina Totenberg",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 15,
+    "book-tittle": "The Myth of Normal",
+    "author": "Gabor Maté, Daniel Maté",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 2,
+    "book-tittle": "So Help Me God",
+    "author": "Mike Pence",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 3,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 4,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 5,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 15,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 6,
+    "book-tittle": "A Book of Days",
+    "author": "Patti Smith",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 7,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 117,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 8,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 9,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 10,
+    "book-tittle": "Cinema Speculation",
+    "author": "Quentin Tarantino",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 11,
+    "book-tittle": "The Queen",
+    "author": "Andrew Morton",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 12,
+    "book-tittle": "The Philosophy of Modern Song",
+    "author": "Bob Dylan",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 13,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 14,
+    "book-tittle": "Have I Told You This Already?",
+    "author": "Lauren Graham",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 15,
+    "book-tittle": "Braiding Sweetgrass",
+    "author": "Robin Wall Kimmerer",
+    "genre": "nonfiction",
+    "weeks-on-list": 57,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 2,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 3,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 16,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 4,
+    "book-tittle": "So Help Me God",
+    "author": "Mike Pence",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 5,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 118,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 6,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 7,
+    "book-tittle": "The Comedians in Cars Getting Coffee Book",
+    "author": "Jerry Seinfeld",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 8,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 9,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 10,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 11,
+    "book-tittle": "Cinema Speculation",
+    "author": "Quentin Tarantino",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 12,
+    "book-tittle": "The Queen",
+    "author": "Andrew Morton",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 13,
+    "book-tittle": "Bibi",
+    "author": "Benjamin Netanyahu",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 14,
+    "book-tittle": "The Philosophy of Modern Song",
+    "author": "Bob Dylan",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 15,
+    "book-tittle": "What If? 2",
+    "author": "Randall Munroe",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 2,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 3,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 17,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 4,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 119,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 5,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 6,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 7,
+    "book-tittle": "So Help Me God",
+    "author": "Mike Pence",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 8,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 9,
+    "book-tittle": "A Heart That Works",
+    "author": "Rob Delaney",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 10,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 11,
+    "book-tittle": "The Philosophy of Modern Song",
+    "author": "Bob Dylan",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 12,
+    "book-tittle": "The Comedians in Cars Getting Coffee Book",
+    "author": "Jerry Seinfeld",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 13,
+    "book-tittle": "What If? 2",
+    "author": "Randall Munroe",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 14,
+    "book-tittle": "Cinema Speculation",
+    "author": "Quentin Tarantino",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 15,
+    "book-tittle": "An Immense World",
+    "author": "Ed Yong",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 2,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 18,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 3,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 4,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 120,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 5,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 6,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 7,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 8,
+    "book-tittle": "So Help Me God",
+    "author": "Mike Pence",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 9,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 10,
+    "book-tittle": "The Philosophy of Modern Song",
+    "author": "Bob Dylan",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 11,
+    "book-tittle": "What If? 2",
+    "author": "Randall Munroe",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 12,
+    "book-tittle": "A Book of Days",
+    "author": "Patti Smith",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 13,
+    "book-tittle": "Radio's Greatest of All Time",
+    "author": "Rush Limbaugh, Kathryn Adams Limbaugh, David Limbaugh",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 14,
+    "book-tittle": "Cinema Speculation",
+    "author": "Quentin Tarantino",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 15,
+    "book-tittle": "Braiding Sweetgrass",
+    "author": "Robin Wall Kimmerer",
+    "genre": "nonfiction",
+    "weeks-on-list": 58,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 2,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 19,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 3,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 4,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 5,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 6,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 121,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 7,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 8,
+    "book-tittle": "What If? 2",
+    "author": "Randall Munroe",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 9,
+    "book-tittle": "The Philosophy of Modern Song",
+    "author": "Bob Dylan",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 10,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 11,
+    "book-tittle": "So Help Me God",
+    "author": "Mike Pence",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 12,
+    "book-tittle": "Radio's Greatest of All Time",
+    "author": "Rush Limbaugh, Kathryn Adams Limbaugh, David Limbaugh",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 13,
+    "book-tittle": "Braiding Sweetgrass",
+    "author": "Robin Wall Kimmerer",
+    "genre": "nonfiction",
+    "weeks-on-list": 59,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 14,
+    "book-tittle": "An Immense World",
+    "author": "Ed Yong",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 15,
+    "book-tittle": "A Book of Days",
+    "author": "Patti Smith",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 2,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 20,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 3,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 4,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 5,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 122,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 6,
+    "book-tittle": "The Revolutionary",
+    "author": "Stacy Schiff",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 7,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 10,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 8,
+    "book-tittle": "An Immense World",
+    "author": "Ed Yong",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 9,
+    "book-tittle": "The Philosophy of Modern Song",
+    "author": "Bob Dylan",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 10,
+    "book-tittle": "Radio's Greatest of All Time",
+    "author": "Rush Limbaugh, Kathryn Adams Limbaugh, David Limbaugh",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 11,
+    "book-tittle": "So Help Me God",
+    "author": "Mike Pence",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 12,
+    "book-tittle": "What If? 2",
+    "author": "Randall Munroe",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 13,
+    "book-tittle": "The Song of the Cell",
+    "author": "Siddhartha Mukherjee",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 14,
+    "book-tittle": "Braiding Sweetgrass",
+    "author": "Robin Wall Kimmerer",
+    "genre": "nonfiction",
+    "weeks-on-list": 60,
+    "source": "nyt"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 15,
+    "book-tittle": "All About Me!",
+    "author": "Mel Brooks",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "nyt"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 1,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 12,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 2,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 196,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 3,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 4,
+    "book-tittle": "Beyond the Wand",
+    "author": "Tom Felton",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 5,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 6,
+    "book-tittle": "Confidence Man",
+    "author": "Maggie Haberman",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 7,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 8,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 101,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 9,
+    "book-tittle": "Bibi",
+    "author": "Benjamin Netanyahu",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 10,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 71,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 11,
+    "book-tittle": "Salt, Fat, Acid, Heat",
+    "author": "Samin Nosrat",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 12,
+    "book-tittle": "The Extraordinary Life of an Ordinary Man",
+    "author": "Paul Newman",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 13,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 141,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 14,
+    "book-tittle": "50 States, 5,000 Ideas",
+    "author": "Joe Yogerst",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 1,
+    "week": "2022-10-23",
+    "ranking": 15,
+    "book-tittle": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "nonfiction",
+    "weeks-on-list": 117,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 1,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 2,
+    "book-tittle": "Spare",
+    "author": "Prince Harry",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 3,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 4,
+    "book-tittle": "The Trump Tapes",
+    "author": "Bob Woodward",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 5,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 13,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 6,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 197,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 7,
+    "book-tittle": "Radio's Greatest of All Time",
+    "author": "Rush Limbaugh, Kathryn Adams Limbaugh, David Limbaugh",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 8,
+    "book-tittle": "Justice Corrupted",
+    "author": "Ted Cruz",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 9,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 102,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 10,
+    "book-tittle": "Never Finished",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 11,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 12,
+    "book-tittle": "How Y'all Doing?",
+    "author": "Leslie Jordan",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 13,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 72,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 14,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 142,
+    "source": "amazon"
+  },
+  {
+    "week-num": 2,
+    "week": "2022-10-30",
+    "ranking": 15,
+    "book-tittle": "From Scratch",
+    "author": "Tembi Locke",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 1,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 2,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 3,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 198,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 4,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 14,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 5,
+    "book-tittle": "Radio's Greatest of All Time",
+    "author": "Rush Limbaugh, Kathryn Adams Limbaugh, David Limbaugh",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 6,
+    "book-tittle": "Hebrews to Negroes: Wake up Black America",
+    "author": "Ronald Dalton Jr.",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 7,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 103,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 8,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 9,
+    "book-tittle": "Spare",
+    "author": "Prince Harry",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 10,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 11,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 73,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 12,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 143,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 13,
+    "book-tittle": "From Scratch",
+    "author": "Tembi Locke",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 14,
+    "book-tittle": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "nonfiction",
+    "weeks-on-list": 119,
+    "source": "amazon"
+  },
+  {
+    "week-num": 3,
+    "week": "2022-11-06",
+    "ranking": 15,
+    "book-tittle": "Cinema Speculation",
+    "author": "Quentin Tarantino",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 1,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 2,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 199,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 3,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 15,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 4,
+    "book-tittle": "Hebrews to Negroes: Wake up Black America",
+    "author": "Ronald Dalton Jr.",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 5,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 6,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 104,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 7,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 8,
+    "book-tittle": "The Stories We Tell",
+    "author": "Joanna Gaines",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 9,
+    "book-tittle": "Good Boundaries and Goodbyes",
+    "author": "Lysa TerKeurst",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 10,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 74,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 11,
+    "book-tittle": "Spare",
+    "author": "Prince Harry",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 12,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 13,
+    "book-tittle": "And There Was Light",
+    "author": "Jon Meacham",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 14,
+    "book-tittle": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "nonfiction",
+    "weeks-on-list": 120,
+    "source": "amazon"
+  },
+  {
+    "week-num": 4,
+    "week": "2022-11-13",
+    "ranking": 15,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 144,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 2,
+    "book-tittle": "Faith Still Moves Mountains",
+    "author": "Harris Faulkner",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 3,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 4,
+    "book-tittle": "So Help Me God",
+    "author": "Mike Pence",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 5,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 200,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 6,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 16,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 7,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 105,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 8,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 9,
+    "book-tittle": "How to Draw 101 Cute Stuff for Kids",
+    "author": "Sophia Elizabeth",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 10,
+    "book-tittle": "The Tools",
+    "author": "Phil Stutz & Barry Michels",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 11,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 75,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 12,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 13,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 145,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 14,
+    "book-tittle": "Good Boundaries and Goodbyes",
+    "author": "Lysa TerKeurst",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 5,
+    "week": "2022-11-20",
+    "ranking": 15,
+    "book-tittle": "The Four Agreements",
+    "author": "Don Miguel Ruiz & Janet Mills",
+    "genre": "nonfiction",
+    "weeks-on-list": 119,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 2,
+    "book-tittle": "The Simply Happy Cookbook",
+    "author": "Steve Doocy & Kathy Doocy",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 3,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 4,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 201,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 5,
+    "book-tittle": "Interesting Facts for Curious Minds",
+    "author": "Jordan Moore",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 6,
+    "book-tittle": "How to Draw 101 Cute Stuff for Kids",
+    "author": "Sophia Elizabeth",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 7,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 17,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 8,
+    "book-tittle": "The Complete Cookbook for Young Chefs",
+    "author": "America's Test Kitchen Kids",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 9,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 106,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 10,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 11,
+    "book-tittle": "Faith Still Moves Mountains",
+    "author": "Harris Faulkner",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 12,
+    "book-tittle": "From Crook to Cook",
+    "author": "Snoop Dogg",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 13,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 14,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 76,
+    "source": "amazon"
+  },
+  {
+    "week-num": 6,
+    "week": "2022-11-27",
+    "ranking": 15,
+    "book-tittle": "Spare",
+    "author": "Prince Harry",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 2,
+    "book-tittle": "Interesting Facts for Curious Minds",
+    "author": "Jordan Moore",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 3,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 202,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 4,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 5,
+    "book-tittle": "The Complete Baking Book for Young Chefs",
+    "author": "America's Test Kitchen Kids",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 6,
+    "book-tittle": "The Complete Cookbook for Young Chefs",
+    "author": "America's Test Kitchen Kids",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 7,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 18,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 8,
+    "book-tittle": "Faith Still Moves Mountains",
+    "author": "Harris Faulkner",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 9,
+    "book-tittle": "From Crook to Cook",
+    "author": "Snoop Dogg",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 10,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 107,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 11,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 12,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 77,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 13,
+    "book-tittle": "Life Skills for Teens",
+    "author": "Karen Harris",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 14,
+    "book-tittle": "Surrender",
+    "author": "Bono",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 7,
+    "week": "2022-12-04",
+    "ranking": 15,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 146,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 1,
+    "book-tittle": "Never Finished",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 2,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 3,
+    "book-tittle": "Interesting Facts for Curious Minds",
+    "author": "Jordan Moore",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 4,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 203,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 5,
+    "book-tittle": "From Crook to Cook",
+    "author": "Snoop Dogg",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 6,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 19,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 7,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 8,
+    "book-tittle": "Faith Still Moves Mountains",
+    "author": "Harris Faulkner",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 9,
+    "book-tittle": "The Ultimate Serial Killer Trivia Book",
+    "author": "Jack Rosewood",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 10,
+    "book-tittle": "The Complete Cookbook for Young Chefs",
+    "author": "America's Test Kitchen Kids",
+    "genre": "nonfiction",
+    "weeks-on-list": 10,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 11,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 12,
+    "book-tittle": "Difficult Riddles for Smart Kids",
+    "author": "M. Prefontaine",
+    "genre": "nonfiction",
+    "weeks-on-list": 16,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 13,
+    "book-tittle": "Can't Hurt Me",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 165,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 14,
+    "book-tittle": "Things to Do While You Poo on the Loo",
+    "author": "Alex Smart",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 8,
+    "week": "2022-12-11",
+    "ranking": 15,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 108,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 2,
+    "book-tittle": "Interesting Facts for Curious Minds",
+    "author": "Jordan Moore",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 3,
+    "book-tittle": "Never Finished",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 4,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 204,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 5,
+    "book-tittle": "The Ultimate Serial Killer Trivia Book",
+    "author": "Jack Rosewood",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 6,
+    "book-tittle": "Difficult Riddles for Smart Kids",
+    "author": "M. Prefontaine",
+    "genre": "nonfiction",
+    "weeks-on-list": 17,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 7,
+    "book-tittle": "Faith Still Moves Mountains",
+    "author": "Harris Faulkner",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 8,
+    "book-tittle": "The Simply Happy Cookbook",
+    "author": "Steve Doocy & Kathy Doocy",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 9,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 20,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 10,
+    "book-tittle": "Life Skills for Teens",
+    "author": "Karen Harris",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 11,
+    "book-tittle": "Go-to Dinners",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "weeks-on-list": 10,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 12,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 13,
+    "book-tittle": "Eager 2 Cook, Healthy Recipes for Healthy Living",
+    "author": "E2M Chef Connect , Jennie Casselman, et al.",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 14,
+    "book-tittle": "Dad Jokes",
+    "author": "Jimmy Niro",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 9,
+    "week": "2022-12-18",
+    "ranking": 15,
+    "book-tittle": "Radio's Greatest of All Time",
+    "author": "Rush Limbaugh, Kathryn Adams Limbaugh, David Limbaugh",
+    "genre": "nonfiction",
+    "weeks-on-list": 4,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 1,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 2,
+    "book-tittle": "Never Finished",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 5,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 3,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 205,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 4,
+    "book-tittle": "The January 6 Report",
+    "author": "The January 6th Committee",
+    "genre": "nonfiction",
+    "weeks-on-list": 2,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 5,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 21,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 6,
+    "book-tittle": "January 6th Report",
+    "author": "Select Committee to Investigate the January 6th Attack on the United States Capitol, David Remnick, et al.",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 7,
+    "book-tittle": "Difficult Riddles for Smart Kids",
+    "author": "M. Prefontaine",
+    "genre": "nonfiction",
+    "weeks-on-list": 18,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 8,
+    "book-tittle": "Can't Hurt Me",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 167,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 9,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 110,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 10,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 78,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 11,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 10,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 12,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 147,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 13,
+    "book-tittle": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "nonfiction",
+    "weeks-on-list": 235,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 14,
+    "book-tittle": "If You Tell",
+    "author": "Gregg Olsen",
+    "genre": "nonfiction",
+    "weeks-on-list": 64,
+    "source": "amazon"
+  },
+  {
+    "week-num": 10,
+    "week": "2022-12-25",
+    "ranking": 15,
+    "book-tittle": "Spare",
+    "author": "Prince Harry",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 1,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 206,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 2,
+    "book-tittle": "Never Finished",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 6,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 3,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 4,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 22,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 5,
+    "book-tittle": "Spare",
+    "author": "Prince Harry",
+    "genre": "nonfiction",
+    "weeks-on-list": 8,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 6,
+    "book-tittle": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "nonfiction",
+    "weeks-on-list": 236,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 7,
+    "book-tittle": "Can't Hurt Me",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 168,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 8,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 111,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 9,
+    "book-tittle": "If You Tell",
+    "author": "Gregg Olsen",
+    "genre": "nonfiction",
+    "weeks-on-list": 65,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 10,
+    "book-tittle": "Lighter",
+    "author": "Yung Pueblo",
+    "genre": "nonfiction",
+    "weeks-on-list": 3,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 11,
+    "book-tittle": "The Mountain Is You",
+    "author": "Brianna Wiest",
+    "genre": "nonfiction",
+    "weeks-on-list": 1,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 12,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 79,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 13,
+    "book-tittle": "Friends, Lovers, and the Big Terrible Thing",
+    "author": "Matthew Perry",
+    "genre": "nonfiction",
+    "weeks-on-list": 11,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 14,
+    "book-tittle": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "nonfiction",
+    "weeks-on-list": 124,
+    "source": "amazon"
+  },
+  {
+    "week-num": 11,
+    "week": "2023-01-01",
+    "ranking": 15,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 148,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 1,
+    "book-tittle": "Spare",
+    "author": "Prince Harry",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 2,
+    "book-tittle": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "nonfiction",
+    "weeks-on-list": 207,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 3,
+    "book-tittle": "Never Finished",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 4,
+    "book-tittle": "The Light We Carry",
+    "author": "Michelle Obama",
+    "genre": "nonfiction",
+    "weeks-on-list": 9,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 5,
+    "book-tittle": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "nonfiction",
+    "weeks-on-list": 237,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 6,
+    "book-tittle": "I'm Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "genre": "nonfiction",
+    "weeks-on-list": 23,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 7,
+    "book-tittle": "The Body Keeps the Score",
+    "author": "Bessel Van Der Kolk, M.D.",
+    "genre": "nonfiction",
+    "weeks-on-list": 112,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 8,
+    "book-tittle": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "genre": "nonfiction",
+    "weeks-on-list": 80,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 9,
+    "book-tittle": "The Daily Stoic",
+    "author": "Ryan Holiday & Stephen Hanselman",
+    "genre": "nonfiction",
+    "weeks-on-list": 7,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 10,
+    "book-tittle": "Can't Hurt Me",
+    "author": "David Goggins",
+    "genre": "nonfiction",
+    "weeks-on-list": 169,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 11,
+    "book-tittle": "If You Tell",
+    "author": "Gregg Olsen",
+    "genre": "nonfiction",
+    "weeks-on-list": 66,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 12,
+    "book-tittle": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "nonfiction",
+    "weeks-on-list": 125,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 13,
+    "book-tittle": "The Four Agreements",
+    "author": "Don Miguel Ruiz & Janet Mills",
+    "genre": "nonfiction",
+    "weeks-on-list": 123,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 14,
+    "book-tittle": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genre": "nonfiction",
+    "weeks-on-list": 14,
+    "source": "amazon"
+  },
+  {
+    "week-num": 12,
+    "week": "2023-01-08",
+    "ranking": 15,
+    "book-tittle": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "nonfiction",
+    "weeks-on-list": 149,
+    "source": "amazon"
+  }
+]
