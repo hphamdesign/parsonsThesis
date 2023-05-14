@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital News Article</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="jquery.waypoints.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div id="desktop-notice">This visualization is only viewable on Desktop</div>
+
+    <!-- This is introduction -->
+    <div class="section-title-underlay"></div>
+    <section class="intro0"></section>
+    <section class="intro1"></section>
+    <section class="intro2"></section>
+    <section class="intro3"></section>
+    <footer></footer>
+
+    <!--Data Viz essay starts-->
+    <header>
+        <h1>Are The New York Times Bestsellers List Worth The Hype?</h1>
+        <p class="subhead">A Data Visualization Essay by <a href="https://www.hphamdesign.com/" target="_blank"><u>Huong
+                    Pham</u></a></p>
+    </header>
+    <main>
+        <div class="content">
+            <h2 class="section-title">The influence of the New York Times bestsellers list</h2>
+            <p class="section-text">There are multiple best-seller lists out there, and getting named to any of them is
+                welcome for most authors, but the New York Times best-seller list is widely considered to be the most
+                prestigious, and it’s certainly the most well-known. Achieving this recognition has a tangible impact on
+                book sales, particularly for first-time writers. Data from an analysis by economics professor Alan
+                Sorensen in 2004 indicated that debut authors' sales rose by 57% after making the New York Times
+                best-seller list. On average, it boosted sales by around 13 to 14%.</p>
+        </div>
+
+        <div class="content">
+            <h2 class="section-title">Why we trust the new York times Bestsellers Title</h2>
+            <p class="section-text">Overall, it is a combination of the New York Times' fame and credibility and the
+                sales data that makes the list so popular and desirable.
+                The New York Times, as a reputable and influential media outlet, has a long-standing history of quality
+                journalism and reporting, which gives people confidence in their recommendations. Readers trust the list
+                because it is based on sales data and is, therefore, reflective of what is popular among readers.
+                Moreover, the New York Times as a highly data-driven organization, which increases the credibility of
+                their bestsellers list. The Times has been recognized as one of the most data-driven news organizations.
+                The Times has invested heavily in data analysis and has built dedicated teams to work on data analytics
+                and digital innovation. The company uses data-driven insights to inform decision-making, from editorial
+                strategy to product development to advertising.
+            </p>
+        </div>
+
+        <!--This is about NYT part-->
+        <div class="scrolling-text"></div>
+        <section class="aboutNYT">
+            <p class="aboutSubhead">Books | Bestsellers</p>
+            <p class="aboutTitle">About the bestsellers</p>
+            <p class="aboutText">A version of this Best Sellers report appears in the March
+                26, 2023 issue of The New York Times Book Review. Rankings on weekly lists reflect sales for the week
+                ending March 11, 2023.</p>
+            <p class="aboutText">Rankings reflect unit sales reported on a confidential basis by vendors offering a wide
+                range of general interest titles published in the United States. Every week, thousands of diverse
+                selling locations report their actual sales on hundreds of thousands of individual titles. The panel of
+                reporting retailers is comprehensive and reflects sales in tens of thousands of stores of all sizes and
+                demographics across the United States.</p>
+            <p class="aboutText">The book selling universe is comprised of well-established vendors as well as emerging
+                ones. The sales venues for print books include national, regional and local chains representing tens of
+                thousands of storefronts; many hundreds of independent book retailers; scores of online and multimedia
+                entertainment retailers; supermarkets, university, gift and big-box department stores; and newsstands.
+            </p>
+            <p class="aboutText">E-book rankings reflect sales from leading online vendors of e-books in a variety of
+                popular e-reader formats and are included in our combined fiction, combined nonfiction, advice,
+                children's series and monthly lists. Titles are included regardless of whether they are published in
+                both print and electronic formats or just one format. In general, publisher credits for e-books are
+                listed under the corporate publishing name instead of by publisher's division or imprint, unless by
+                special request. Graphic book rankings include all print and digital formats. Adult, children's, young
+                adult, fiction and nonfiction graphic books are eligible for inclusion on the graphic books and manga
+                list. Audiobook rankings are created from sales of physical and digital audio products. Free-trial or
+                low-cost audiobook sales are not eligible for inclusion. Publisher credits for audiobooks are listed
+                under the audiobook publisher name.</p>
+            <p class="aboutText">The appearance of a ranked title reflects the fact that sales data from reporting
+                vendors has been provided to The Times and has satisfied commonly accepted industry standards of
+                universal identification (such as ISBN13 and EISBN13 codes). All identities, anecdotal, contextual, and
+                other information about the retail sales of any title, as well as overall sales data, are provided with
+                the expectation and assurance of confidentiality by every vendor and are protected by Non-Disclosure
+                Agreements.</p>
+            <p class="aboutText">Sales are defined as completed transactions by vendors and individual end users during
+                the period on or after the official publication date of a title. Institutional, special interest, group
+                or bulk purchases, if and when they are included, are at the discretion of The New York Times
+                Best-Seller List Desk editors based on standards for inclusion that encompass proprietary vetting and
+                audit protocols, corroborative reporting and other statistical determinations. When included, such bulk
+                purchases appear with a dagger (†).</p>
+            <p class="aboutText">Publishers and vendors of all ranked titles must conform in a timely fashion to The New
+                York Times Best-Seller Lists requirement to allow for examination and independent corroboration of their
+                reported sales for that week. Sales are statistically weighted to represent and accurately reflect all
+                outlets proportionally nationwide. An asterisk (*) indicates that a book's sales are barely
+                distinguishable from those of the book above.</p>
+            <p class="aboutText">Among the categories not actively tracked at this time are: perennial sellers, required
+                classroom reading, textbooks, reference and test preparation guides, e-books available exclusively from
+                a single vendor, journals, workbooks, calorie counters, shopping guides, periodicals and crossword
+                puzzles.
+            <p class="aboutText">The New York Times Best Sellers are compiled and archived by The Best-Seller Lists Desk
+                of The New York Times News Department, and are separate from the Editorial, Culture, Advertising and
+                Business sides of The New York Times Company.
+            <p class="aboutText">If you are a book retailer interested in reporting your store's weekly sales to The New
+                York Times Best-Seller Lists, send a request here.
+            <p class="aboutText">Please direct other questions and feedback to nytbsl@nytimes.com.</p>
+        </section>
+
+        <section class="aboutNYT2">
+            <p class="aboutSubhead">Books | Bestsellers</p>
+            <p class="aboutTitle">About the bestsellers</p>
+            <p class="aboutText">A version of this Best Sellers report appears in the March
+                26, 2023 issue of The New York Times Book Review. Rankings on weekly lists reflect sales for the week
+                ending March 11, 2023.</p>
+            <p class="aboutText">Rankings reflect <span class="white">unit sales reported on a confidential basis by
+                    vendors</span> offering a wide
+                range of general interest titles published in the United States. Every week, <span
+                    class="white">thousands of diverse
+                    selling locations report their actual sales</span> on hundreds of thousands of individual titles.
+                <span class="white">The panel of
+                    reporting retailers</span> is comprehensive and reflects sales in <span class="white">tens of
+                    thousands of stores of all sizes and
+                    demographics</span> across the United States.
+            </p>
+            <p class="aboutText">The book selling universe is comprised of <span class="white">well-established vendors
+                    as well as emerging
+                    ones</span>. The sales venues for print books include <span class="white">national, regional and
+                    local chains</span> representing <span class="white">tens of
+                    thousands of storefronts</span>; many <span class="white">hundreds of independent book
+                    retailers</span>; scores of <span class="white">online and multimedia
+                    entertainment retailers; supermarkets, university, gift and big-box department stores; and
+                    newsstands.</span>
+            </p>
+            <p class="aboutText">E-book rankings reflect sales from <span class="white">leading online vendors of
+                    e-books</span> in a variety of
+                popular e-reader formats and are included in our combined fiction, combined nonfiction, advice,
+                children's series and monthly lists. Titles are included regardless of whether they are published in
+                both print and electronic formats or just one format. In general, publisher credits for e-books are
+                listed under the corporate publishing name instead of by publisher's division or imprint, unless by
+                special request. Graphic book rankings include all print and digital formats. Adult, children's, young
+                adult, fiction and nonfiction graphic books are eligible for inclusion on the graphic books and manga
+                list. Audiobook rankings are created from sales of physical and digital audio products. Free-trial or
+                low-cost audiobook sales are not eligible for inclusion. Publisher credits for audiobooks are listed
+                under the audiobook publisher name.</p>
+            <p class="aboutText">The appearance of a ranked title reflects the fact that <span class="white">sales data
+                    from reporting
+                    vendors</span> has been provided to The Times and has satisfied commonly accepted industry standards
+                of
+                universal identification (such as ISBN13 and EISBN13 codes). All identities, anecdotal, contextual, and
+                other information about the retail sales of any title, as well as overall sales data, are provided with
+                the expectation and assurance of confidentiality by every vendor and are protected by Non-Disclosure
+                Agreements.</p>
+            <p class="aboutText">Sales are defined as completed transactions by vendors and individual end users during
+                the period on or after the official publication date of a title. Institutional, special interest, group
+                or bulk purchases, if and when they are included, are at the discretion of The New York Times
+                Best-Seller List Desk editors based on standards for inclusion that encompass proprietary vetting and
+                audit protocols, corroborative reporting and other statistical determinations. When included, such bulk
+                purchases appear with a dagger (†).</p>
+            <p class="aboutText">Publishers and vendors of all ranked titles must conform in a timely fashion to The New
+                York Times Best-Seller Lists requirement to allow for examination and independent corroboration of their
+                reported sales for that week. <span class="white">Sales are statistically weighted to represent and
+                    accurately reflect all
+                    outlets</span> proportionally nationwide. An asterisk (*) indicates that a book's sales are barely
+                distinguishable from those of the book above.</p>
+            <p class="aboutText">Among the categories not actively tracked at this time are: perennial sellers, required
+                classroom reading, textbooks, reference and test preparation guides, e-books available exclusively from
+                a single vendor, journals, workbooks, calorie counters, shopping guides, periodicals and crossword
+                puzzles.
+            <p class="aboutText">The New York Times Best Sellers are compiled and archived by The Best-Seller Lists Desk
+                of The New York Times News Department, and are separate from the Editorial, Culture, Advertising and
+                Business sides of The New York Times Company.
+            <p class="aboutText">If you are a book retailer interested in reporting your store's weekly sales to The New
+                York Times Best-Seller Lists, send a request here.
+            <p class="aboutText">Please direct other questions and feedback to nytbsl@nytimes.com.</p>
+        </section>
+        <section class="endAbout"></section>
+
+        <div class="content">
+            <p class="section-text">"The Handbook for Mortals" is at the center of a controversy over allegations of
+                sales manipulation to secure a spot on the prestigious New York Times bestsellers list. The book,
+                authored by Lani Sarem and published by GeekNation, has been accused of using unethical means to
+                boost
+                sales and secure its place on the list. This accusation was not only reported by The New York Times,
+                but
+                also by other prominent news outlets, such as Publishers Weekly and the Los Angeles Times. Following
+                these allegations, The New York Times acknowledged "inconsistencies" in the book's sales data and
+                removed it from the bestsellers list. However, Sarem and her team denied any wrongdoing and accused
+                The
+                New York Times of bias against independently published books. This incident has raised questions
+                about
+                the integrity of the bestsellers list.
+            </p>
+            <img src="img/handbook.png" width="100%" id="handbookCover">
+            <p class="tiny-text">Detail from the cover of Handbook for Mortals by Lani Sarem.</p>
+        </div>
+
+        <div class="content">
+            <h2 class="section-title">Let’s see how New York Times books bestsellers lists compare to another
+                bestsellers list with similar methodology</h2>
+            <p class="section-text">So the New York Times says that: “The appearance of a ranked title reflects the
+                fact
+                that sales data from reporting vendors” and “Sales are defined as completed transactions by vendors
+                and
+                individual end users”.</p>
+            <p class="section-text">According to statista.com, Amazon Books dominates book sales almost everywhere,
+                with
+                67 percent of book buyers using the service. Provided that the New York Times sources books sales
+                data
+                from “well-established vendors as well as emerging ones”, it is safe to assume that Amazon should be
+                in
+                the list of vendors since they are such a dominant player in the book market.</p>
+        </div>
+
+        <div class="content">
+            <h2 class="section-titleItalic">Let’s play a little matching game!</h2>
+            <h3 class="section-subtitle"><span style="background-color:rgba(58,160,212,0.75);">New York Times
+                    Bestsellers</span> vs. <span style="background-color:rgba(232,102,30,0.75);">Amazon Book
+                    Chart</span></h3>
+            <p class="notes">*Please note that Amazon data might still be subject to biases and manipulation. The
+                main purpose of this visualization is to understand how the New York Times bestsellers list compare to
+                another bestsellers list and what patterns there might be, rather than drawing a concrete conclusion
+                on which list is more trustworthy.</p>
+            <p class="notes">Data sources: <a href="https://www.nytimes.com/books/best-sellers/"
+                    target="_blank">nytimes.com</a> and <a href="https://www.amazon.com/charts"
+                    target="_blank">amazon.com</a></p>
+        </div>
+
+        <div class="mainViz1">
+            <div class="background"></div>
+
+            <div class="nytBackground">
+                New York Times
+            </div>
+
+            <div class="amazonBackground">
+                Amazon Chart
+            </div>
+
+            <div id="weeklyLegend"></div>
+            <div class="weekly">
+                <div class="switch-field">
+                    <input type="radio" id="radio-one" name="switch-one" value="yes" checked />
+                    <label for="radio-one">Fiction</label>
+                    <input type="radio" id="radio-two" name="switch-one" value="no" />
+                    <label for="radio-two">Non-fiction</label>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="content">
+            <h2 class="section-titleItalic">Now let’s see what the overall picture is</h2>
+            <p class="section-text">This visualization focuses <b><u><i>solely</i></u> on the New York Times list</b>
+                and presents a comprehensive view of the changes in appearance and ranking of individual books over a
+                12-week period. Each column represents a week between October 23rd 2022 and January 8th 2023, and by
+                hovering over a book cover, you can gain insight into its evolution in appearance and ranking across
+                different weeks. The book covers in color are the books that also appeared on Amazon Chart that week,
+                while the covers in black and white are books that only appeared on New York Times list.</p>
+            <p class="notes">*Hover over a specific book to see the pattern over 12 weeks.</p>
+        </div>
+
+        <div class="mainViz2">
+            <div id="showAmazonBtn">
+                <p id="amazonBtnText">Show books that appeared on Amazon</p>
+                <label id="switch">
+                    <input type="checkbox">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+
+            <div id="overallHeader">Evolution in appearance and ranking of NYT bestsellers across 12 weeks </div>
+
+            <div id="xaxis">
+                <svg id="chart_head" width="800" height="30"></svg>
+            </div>
+
+            <div class='chart-container'>
+                <g id="chart"></g>
+            </div>
+
+            <div id="mainViz2-tooltip">
+                <div id="coverImage"></div>
+                <h1 id="bookTitle"></h1>
+                <p id="author"></p>
+            </div>
+            
+        </div>
+
+        <div class="content">
+            <h2 class="section-title">Meanwhile, there are well-loved Award-winning books that never made it to the
+                new york times bestsellers list</h2>
+            <p class="section-text">If you relied solely on the New York Times bestsellers badge to pick up a book,
+                it
+                is highly likely you are missing out on high-quality, worth-while books. Many award-winning books,
+                praised by critics and loved by readers, do not make it to the list due to factors such as
+                commercial
+                success or genre preferences.</p>
+            <p class="section-text">Let’s look at 50 award-winning books well-loved by readers, yet never made it to
+                the
+                New York Times bestsellers list. The visualization will also include Goodreads average ratings and
+                ratings counts to show how well-loved these books are from the readers community. Have you
+                considered
+                any of these books?</p>
+            <p class="section-text"><b>Hover on a bubble to find out more about the books and how many people love
+                    it!</b></p>
+        </div>
+
+        <div class="mainViz3">
+            <div class="flourish-embed flourish-hierarchy" data-src="visualisation/13606192">
+                <script src="https://public.flourish.studio/resources/embed.js"></script>
+            </div>
+        </div>
+
+        <!-- This is conclusion -->
+        <div class="conclusion">
+        </div>
+
+    </main>
+    <!-- <footer>
+      <p> Huong Pham</p>
+    </footer> -->
+    <script src="intro.js"></script>
+    <script src="aboutNYT.js"></script>
+    <!-- <script src="script.js"></script> -->
+    <script src="weekly.js"></script>
+    <script src="overall.js"></script>
+</body>
+
+</html>
