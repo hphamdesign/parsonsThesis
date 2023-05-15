@@ -17,10 +17,10 @@ $(document).ready(function() {
         $('.section-title-underlay').text('Have you ever walked into a bookstore, wanting to pick up a new book but are overwhelmed by all the choices you are presented with? So you start wondering what could set a book apart and make your decision easier...').css('padding', '15px');
       }
       else if (scrollPos >= scene2 && scrollPos < scene3) {
-        $('.section-title-underlay').text('And there it is! You spot a book with the shiny line of “A New York Times Bestsellers” printed across the cover. The New York Times is one of the most trustworthy news outlet, and this is a bestseller determined by them. What could go wrong?').css('padding', '15px');  
+        $('.section-title-underlay').text('And there it is! You spot a book with the shiny line of “A New York Times Bestsellers” printed across the cover. The New York Times is one of the most trustworthy news outlet, and this is a bestseller determined by them. It is easy to be captivated by the tittle thinking this would be a great book...').css('padding', '15px');  
       }
       else if (scrollPos >= scene3 && scrollPos < footer) {
-        $('.section-title-underlay').text('Until you actually read the book and realize you blindly trusted the tittle without much second-guessing. Not only do you not enjoy the read, but you wasted quite a bit of money and time already invested in it. And now a question arise: Are the Times Bestsellers worth the hype?').css('padding', '15px');  
+        $('.section-title-underlay').text('But have you ever paused before lining up for the cashier to ask yourself this question: Are the Times Bestsellers books worth the hype?').css('padding', '15px');  
       }
       else {
         $('.section-title-underlay').text('').css('padding','0');  
